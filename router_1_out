@@ -1,0 +1,320 @@
+Checkpoint1
+[33620160] - [Êþº¾]
+Checkpoint2
+Setting up interface: rr-0-1
+Setting up interface: r-0
+Setting up interface: r-1
+
+
+Hai sa vedem ce fac cu pachetul asta
+Am IP
+Are adresa mea MAC la destinatie
+A intrat pe IP
+PACHETUL ARE ADRESA MEA IP! E PENTRU MINE
+
+
+Hai sa vedem ce fac cu pachetul asta
+Am ARP
+Am arp request
+[192.0.1.2]
+Sunt pe cale sa trimit un arp-replay
+
+
+Hai sa vedem ce fac cu pachetul asta
+Am ARP
+Am primit adresa Mac pe care o cautam. Sunt in ARP-Replay
+
+
+Hai sa vedem ce fac cu pachetul asta
+Am IP
+Packetul nu a fost trimis la adresa mea MAC
+
+
+Hai sa vedem ce fac cu pachetul asta
+Am ARP
+pachetul arp nu e de tipul request and replay. Este de tipul: 2
+
+
+Hai sa vedem ce fac cu pachetul asta
+Am IP
+Are adresa mea MAC la destinatie
+A intrat pe IP
+PACHETUL ARE ADRESA MEA IP! E PENTRU MINE
+
+
+Hai sa vedem ce fac cu pachetul asta
+Am IP
+Packetul nu a fost trimis la adresa mea MAC
+
+
+Hai sa vedem ce fac cu pachetul asta
+Am IP
+Are adresa mea MAC la destinatie
+A intrat pe IP
+PACHETUL ARE ADRESA MEA IP! E PENTRU MINE
+
+
+Hai sa vedem ce fac cu pachetul asta
+Am IP
+Packetul nu a fost trimis la adresa mea MAC
+
+
+Hai sa vedem ce fac cu pachetul asta
+Am ARP
+Am arp request
+[192.0.1.2]
+Sunt pe cale sa trimit un arp-replay
+
+
+Hai sa vedem ce fac cu pachetul asta
+Am ARP
+Am primit adresa Mac pe care o cautam. Sunt in ARP-Replay
+
+
+Hai sa vedem ce fac cu pachetul asta
+Am ARP
+pachetul arp nu e de tipul request and replay. Este de tipul: 2
+
+
+Hai sa vedem ce fac cu pachetul asta
+Am IP
+Are adresa mea MAC la destinatie
+A intrat pe IP
+PACHETUL ARE ADRESA MEA IP! E PENTRU MINE
+
+
+Hai sa vedem ce fac cu pachetul asta
+Am IP
+Packetul nu a fost trimis la adresa mea MAC
+
+
+Hai sa vedem ce fac cu pachetul asta
+Am IP
+Are adresa mea MAC la destinatie
+A intrat pe IP
+Nu e pentru mine
+Trimit pachet dupa ce am gasit in arptable intrare
+
+
+Hai sa vedem ce fac cu pachetul asta
+Am IP
+Are adresa mea MAC la destinatie
+A intrat pe IP
+PACHETUL ARE ADRESA MEA IP! E PENTRU MINE
+
+
+Hai sa vedem ce fac cu pachetul asta
+Am ARP
+Am arp request
+[192.0.1.2]
+Sunt pe cale sa trimit un arp-replay
+Trimite inapoi un ARP-Replay
+
+
+Hai sa vedem ce fac cu pachetul asta
+Am ARP
+Am primit adresa Mac pe care o cautam. Sunt in ARP-Replay
+
+
+Hai sa vedem ce fac cu pachetul asta
+Am IP
+Are adresa mea MAC la destinatie
+A intrat pe IP
+Nu e pentru mine
+Trimit pachet dupa ce am gasit in arptable intrare
+
+
+Hai sa vedem ce fac cu pachetul asta
+Am IP
+Are adresa mea MAC la destinatie
+A intrat pe IP
+PACHETUL ARE ADRESA MEA IP! E PENTRU MINE
+
+
+Hai sa vedem ce fac cu pachetul asta
+Am IP
+Are adresa mea MAC la destinatie
+A intrat pe IP
+Nu e pentru mine
+Trimit pachet dupa ce am gasit in arptable intrare
+
+
+Hai sa vedem ce fac cu pachetul asta
+Am ARP
+Am arp request
+[192.168.3.1]
+Sunt pe cale sa trimit un arp-replay
+Trimite inapoi un ARP-Replay
+
+
+Hai sa vedem ce fac cu pachetul asta
+Am ARP
+Am primit adresa Mac pe care o cautam. Sunt in ARP-Replay
+
+
+Hai sa vedem ce fac cu pachetul asta
+Am IP
+Are adresa mea MAC la destinatie
+A intrat pe IP
+PACHETUL ARE ADRESA MEA IP! E PENTRU MINE
+
+
+Hai sa vedem ce fac cu pachetul asta
+Am IP
+Are adresa mea MAC la destinatie
+A intrat pe IP
+Nu e pentru mine
+Trimit pachet dupa ce am gasit in arptable intrare
+
+
+Hai sa vedem ce fac cu pachetul asta
+Am IP
+Are adresa mea MAC la destinatie
+A intrat pe IP
+PACHETUL ARE ADRESA MEA IP! E PENTRU MINE
+
+
+Hai sa vedem ce fac cu pachetul asta
+Am ARP
+Am arp request
+[192.0.1.2]
+Sunt pe cale sa trimit un arp-replay
+Trimite inapoi un ARP-Replay
+
+
+Hai sa vedem ce fac cu pachetul asta
+Am ARP
+Am primit adresa Mac pe care o cautam. Sunt in ARP-Replay
+
+
+Hai sa vedem ce fac cu pachetul asta
+Am IP
+Are adresa mea MAC la destinatie
+A intrat pe IP
+Nu e pentru mine
+Trimit pachet dupa ce am gasit in arptable intrare
+
+
+Hai sa vedem ce fac cu pachetul asta
+Am IP
+Are adresa mea MAC la destinatie
+A intrat pe IP
+PACHETUL ARE ADRESA MEA IP! E PENTRU MINE
+
+
+Hai sa vedem ce fac cu pachetul asta
+Am IP
+Are adresa mea MAC la destinatie
+A intrat pe IP
+Nu e pentru mine
+Trimit pachet dupa ce am gasit in arptable intrare
+
+
+Hai sa vedem ce fac cu pachetul asta
+Am ARP
+Am arp request
+[192.168.2.1]
+Sunt pe cale sa trimit un arp-replay
+Trimite inapoi un ARP-Replay
+
+
+Hai sa vedem ce fac cu pachetul asta
+Am ARP
+Am primit adresa Mac pe care o cautam. Sunt in ARP-Replay
+
+
+Hai sa vedem ce fac cu pachetul asta
+Am IP
+Are adresa mea MAC la destinatie
+A intrat pe IP
+PACHETUL ARE ADRESA MEA IP! E PENTRU MINE
+
+
+Hai sa vedem ce fac cu pachetul asta
+Am IP
+Are adresa mea MAC la destinatie
+A intrat pe IP
+PACHETUL ARE ADRESA MEA IP! E PENTRU MINE
+Am primit ICMP_ECHO. Trimit pachet ICMP_ECHOREPLAY
+Trimit ICMP packet de tip 0
+
+
+Hai sa vedem ce fac cu pachetul asta
+Am IP
+Are adresa mea MAC la destinatie
+A intrat pe IP
+PACHETUL ARE ADRESA MEA IP! E PENTRU MINE
+Am primit ICMP_ECHO. Trimit pachet ICMP_ECHOREPLAY
+Trimit ICMP packet de tip 0
+
+
+Hai sa vedem ce fac cu pachetul asta
+Am IP
+Are adresa mea MAC la destinatie
+A intrat pe IP
+PACHETUL ARE ADRESA MEA IP! E PENTRU MINE
+Am primit ICMP_ECHO. Trimit pachet ICMP_ECHOREPLAY
+Trimit ICMP packet de tip 0
+
+
+Hai sa vedem ce fac cu pachetul asta
+Am IP
+Are adresa mea MAC la destinatie
+A intrat pe IP
+PACHETUL ARE ADRESA MEA IP! E PENTRU MINE
+Am primit ICMP_ECHO. Trimit pachet ICMP_ECHOREPLAY
+Trimit ICMP packet de tip 0
+
+
+Hai sa vedem ce fac cu pachetul asta
+Am IP
+Are adresa mea MAC la destinatie
+A intrat pe IP
+PACHETUL ARE ADRESA MEA IP! E PENTRU MINE
+Am primit ICMP_ECHO. Trimit pachet ICMP_ECHOREPLAY
+Trimit ICMP packet de tip 0
+
+
+Hai sa vedem ce fac cu pachetul asta
+Am IP
+Are adresa mea MAC la destinatie
+A intrat pe IP
+PACHETUL ARE ADRESA MEA IP! E PENTRU MINE
+Am primit ICMP_ECHO. Trimit pachet ICMP_ECHOREPLAY
+Trimit ICMP packet de tip 0
+
+
+Hai sa vedem ce fac cu pachetul asta
+Am IP
+Are adresa mea MAC la destinatie
+A intrat pe IP
+PACHETUL ARE ADRESA MEA IP! E PENTRU MINE
+Am primit ICMP_ECHO. Trimit pachet ICMP_ECHOREPLAY
+Trimit ICMP packet de tip 0
+
+
+Hai sa vedem ce fac cu pachetul asta
+Am IP
+Are adresa mea MAC la destinatie
+A intrat pe IP
+PACHETUL ARE ADRESA MEA IP! E PENTRU MINE
+Am primit ICMP_ECHO. Trimit pachet ICMP_ECHOREPLAY
+Trimit ICMP packet de tip 0
+
+
+Hai sa vedem ce fac cu pachetul asta
+Am IP
+Are adresa mea MAC la destinatie
+A intrat pe IP
+PACHETUL ARE ADRESA MEA IP! E PENTRU MINE
+Am primit ICMP_ECHO. Trimit pachet ICMP_ECHOREPLAY
+Trimit ICMP packet de tip 0
+
+
+Hai sa vedem ce fac cu pachetul asta
+Am IP
+Are adresa mea MAC la destinatie
+A intrat pe IP
+PACHETUL ARE ADRESA MEA IP! E PENTRU MINE
+Am primit ICMP_ECHO. Trimit pachet ICMP_ECHOREPLAY
+Trimit ICMP packet de tip 0
